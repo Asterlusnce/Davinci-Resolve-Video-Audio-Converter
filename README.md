@@ -59,8 +59,7 @@ Linux:
 ```bash
 git clone https://github.com/Biruworld/Davinci-Resolve-Video-Audio-Converter
 cd Davinci-Resolve-Video-Audio-Converter
-chmod +x install.sh
-./install.sh
+python -m davinci_converter
 ```
 How to Run?
 ```bash

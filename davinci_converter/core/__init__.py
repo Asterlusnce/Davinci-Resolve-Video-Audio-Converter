@@ -1,0 +1,1 @@
+"""Pure logic: no GTK imports allowed in this package."""
