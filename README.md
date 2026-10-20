@@ -61,10 +61,6 @@ git clone https://github.com/Biruworld/Davinci-Resolve-Video-Audio-Converter
 cd Davinci-Resolve-Video-Audio-Converter
 python -m davinci_converter
 ```
-How to Run?
-```bash
-davinci-resolve
-```
 NixOS Flake:
 ```bash
 {
